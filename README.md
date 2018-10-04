@@ -1,2 +1,3 @@
 # matlab-randomno
 midsquare
+Method
